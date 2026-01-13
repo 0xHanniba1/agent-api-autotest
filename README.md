@@ -1,3 +1,5 @@
+> **注意：本项目使用原始 API 构建 Agent，仅供学习原理使用，功能不完善。实际项目请使用官方 SDK：[Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python)**
+
 # 接口自动化测试 Agent
 
 基于 Claude API 构建的智能接口自动化测试 Agent，能够自动读取 Swagger 文档、生成测试用例、执行测试并自动修复错误。
